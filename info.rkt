@@ -19,3 +19,4 @@
                ))
 (define build-deps '("racket-doc"
                      "scribble-lib"))
+(define license 'MIT)
