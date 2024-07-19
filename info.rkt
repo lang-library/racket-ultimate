@@ -20,3 +20,4 @@
 (define build-deps '("racket-doc"
                      "scribble-lib"))
 (define license 'MIT)
+(define pkg-desc "Tools for Racket")
